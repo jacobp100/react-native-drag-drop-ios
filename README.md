@@ -4,6 +4,8 @@
 
 Native drag and drop behaviour for iOS
 
+https://user-images.githubusercontent.com/7275322/218277637-a451b141-7a58-48c1-a8e5-9fe28abeb32a.mp4
+
 ## Installation
 
 ```sh
